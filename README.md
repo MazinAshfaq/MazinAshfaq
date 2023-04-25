@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MazinAshfaq
-- 👀 I’m interested in Full Stack and Web Application Development
-- 🌱 I’m currently learning Java/Javascript/Typescript along with Full-Stack and Software Development fundementals.
-- 💞️ I’m looking to learn and work somewhere where I can grow into a better developer and person. 
+- 👀 I’m interested in Full Stack and Cloud Application Security
+- 🌱 I’m currently working as a Software Enginner II using Javascript/Typescript doing Full-Stack Development @ Walmart.
 - 📫 How to reach me :
 Text - (971)-300-9363
 Email - mzash00@gmail.com
