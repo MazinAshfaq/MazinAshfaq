@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @MazinAshfaq
-- 👀 I’m interested in Full Stack and Cloud Application Security
-- 🌱 I’m currently working as a Software Enginner II using Javascript/Typescript doing Full-Stack Development @ Walmart.
-- 📫 How to reach me :
-Text - (971)-300-9363
-Email - mzash00@gmail.com
+## Hello, I'm Mazin Ashfaq 👋
 
+- 💼 Software Engineer II at Walmart
+- 💻 Full Stack Developer with expertise in JavaScript, HTML, CSS, SQL
+- 🌐 Front End: React.js, Redux, HTML, CSS
+- ⚙️ Back End: Java, Spring Boot
+- 🔒 Passionate about Cloud Security & AI
+- 🌟 Check out my website: [mazinashfaq.com](https://mazinashfaq.com/)
+
+Let's collaborate and build innovative solutions that make a difference! 💡✨
